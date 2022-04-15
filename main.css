@@ -1,0 +1,34 @@
+.margin-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Simple login with PHP */
+.form_login {
+  width: 200px;
+  border: 1px solid #ccc;
+}
+.form_login div {
+  padding: 5px;
+}
+.form_login div input {
+  border: 1px solid #ccc;
+  margin: 0;
+}
+.form_login div input[type="text"],
+.form_login div input[type="password"] {
+  background-color: #30d9a4;
+  height: auto;
+  color: #000000;
+}
+.sidebar_learning_text .text_align_center,
+.sidebar_learning_text .text_align_center p {
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
+table,
+td {
+  border: 1px solid black;
+}
